@@ -1,0 +1,6 @@
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\bin\Debug\Example.Automation.dll
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\bin\Debug\Example.Automation.pdb
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\bin\Debug\WebDriver.dll
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\bin\Debug\WebDriver.xml
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\obj\Debug\Example.Automation.dll
+C:\Users\Aaron.oneshore-acer\Documents\Visual Studio 2015\Projects\Example.Automation\obj\Debug\Example.Automation.pdb
